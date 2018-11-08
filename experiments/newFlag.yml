@@ -1,0 +1,9 @@
+# This file was edited by rollout.io
+# URL: https://localhost.rollout.io:9000/ex/5a981d7f3ee621278d83fbb2
+flag: newFlag
+type: experiment
+name: '111111###111111'
+stickinessProperty: rox.country
+platforms:
+  - name: iOS
+    value: true
