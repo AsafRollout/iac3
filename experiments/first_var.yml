@@ -7,9 +7,8 @@ availableValues:
   - blue
   - green
   - red
-  - aaa
-  - anotherone
   - red red  2
+  - aaa
 labels:
   - lbl1
   - labbbbb
