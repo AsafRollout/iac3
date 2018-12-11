@@ -1,0 +1,23 @@
+# This file was edited by rollout.io
+# URL: https://localhost.rollout.io:9000/ex/5bb4fdfc22a72a7d6c885ce5
+flag: first_var
+type: experiment
+name: first var
+availableValues:
+  - blue
+  - green
+  - red
+  - redd
+  - zzxz
+labels:
+  - lbl1
+  - labbbbb
+platforms:
+  - name: Ruby
+    value:
+      - option: red
+        percentage: 33
+      - option: green
+        percentage: 33
+      - option: blue
+        percentage: 33
