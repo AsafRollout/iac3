@@ -2,7 +2,7 @@
 # URL: https://localhost.rollout.io:9000/ex/5bb4fdfc22a72a7d6c885ce5
 flag: first_var
 type: experiment
-name: first var
+name: first var2
 availableValues:
   - blue
   - green
@@ -22,3 +22,4 @@ platforms:
         percentage: 33
       - option: blue
         percentage: 33
+value: []
