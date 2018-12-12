@@ -23,8 +23,11 @@ platforms:
 conditions:
   - value:
       - option: true
-        percentage: 50
+        percentage: 45
 value:
+  - option: true
+    percentage: 0
+    from: 2018-12-24T00:00:00.000Z
   - option: true
     percentage: 100
     from: 2018-12-27T00:00:00.000Z
