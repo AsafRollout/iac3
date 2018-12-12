@@ -6,4 +6,4 @@ name: first flag
 platforms:
   - name: Ruby
     value: true
-value: true
+value: false
