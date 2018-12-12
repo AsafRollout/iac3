@@ -2,7 +2,8 @@
 # URL: https://localhost.rollout.io:9000/ex/5bb4b23322a72a7d6c88593f
 flag: first_flag
 type: experiment
+name: first flag
 platforms:
   - name: Ruby
     value: true
-name: first flag
+value: true
