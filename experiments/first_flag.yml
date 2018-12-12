@@ -20,4 +20,11 @@ platforms:
           operator: nor
           name: 40users
     value: false
-value: false
+conditions:
+  - value:
+      - option: true
+        percentage: 50
+value:
+  - option: true
+    percentage: 100
+    from: 2018-12-24T00:00:00.000Z
