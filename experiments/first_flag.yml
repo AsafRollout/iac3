@@ -13,6 +13,7 @@ platforms:
           flag: first_flag2
           value: 'false'
         value: true
-      - {}
+      - group:
+          name: 40users
     value: false
 value: false
