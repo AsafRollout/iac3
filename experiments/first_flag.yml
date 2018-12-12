@@ -19,7 +19,7 @@ platforms:
       - group:
           operator: nor
           name: 40users
-    value: false
+    value: true
 conditions:
   - value:
       - option: true
