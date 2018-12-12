@@ -5,4 +5,4 @@ type: experiment
 name: first flag
 platforms:
   - name: Ruby
-    value: false
+    value: true
