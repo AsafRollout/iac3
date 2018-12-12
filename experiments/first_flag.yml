@@ -26,5 +26,8 @@ conditions:
         percentage: 50
 value:
   - option: true
-    percentage: 100
+    percentage: 80
     from: 2018-12-24T00:00:00.000Z
+  - option: true
+    percentage: 100
+    from: 2018-12-27T00:00:00.000Z
