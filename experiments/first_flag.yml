@@ -3,7 +3,9 @@
 type: experiment
 name: first flag
 description: desc
-labels: labbbbb
+labels:
+  - labbbbb
+  - archive
 stickinessProperty: id
 flag: first_flag
 platforms:
