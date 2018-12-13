@@ -1,0 +1,35 @@
+# This file was edited by rollout.io
+# URL: https://localhost.rollout.io:9000/ex/5bb4b23322a72a7d6c88593f
+type: experiment
+name: first flag
+description: desc2
+labels:
+  - archive
+  - archive
+stickinessProperty: id
+flag: first_flag
+platforms:
+  - name: Ruby
+    conditions:
+      - version:
+          operator: semver-gt
+          semver: '2'
+        dependency:
+          flag: first_flag2
+          value: 'false'
+        value: true
+      - group:
+          operator: nor
+          name: 40users
+    value: true
+conditions:
+  - value:
+      - percentage: 45
+        option: true
+value:
+  - from: 2018-12-24T00:00:00.000Z
+    percentage: 0
+    option: true
+  - from: 2018-12-27T00:00:00.000Z
+    percentage: 100
+    option: true
