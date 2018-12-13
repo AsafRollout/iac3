@@ -5,6 +5,9 @@ name: first flag
 description: desc2
 stickinessProperty: id
 flag: first_flag
+platforms:
+  - name: Ruby
+    value: false
 conditions:
   - value:
       - percentage: 40
