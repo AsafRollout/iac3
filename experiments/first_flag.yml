@@ -12,6 +12,7 @@ platforms:
           operator: semver-gt
           semver: '3'
         group:
+          operator: and
           name: 40users
         value:
           - percentage: 60
