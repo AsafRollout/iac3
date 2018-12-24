@@ -6,7 +6,7 @@ conditions:
   - operator: in-array
     property: userId22
     operand:
-      - aav
+      - aavz
       - '40'
   - operator: is-true
     property: userBoolT
