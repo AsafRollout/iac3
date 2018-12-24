@@ -4,5 +4,5 @@ conditions:
   - operator: in-array
     property: userId2
     operand:
-      - aaa
+      - aav
       - '40'
