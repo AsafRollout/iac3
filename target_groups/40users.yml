@@ -1,13 +1,13 @@
 type: target-group
 name: 40users
 conditions:
+  - operator: is-false
+    property: userBoolF
   - operator: in-array
     property: userId22
     operand:
       - aav
       - '40'
-  - operator: is-false
-    property: userBoolF
   - operator: is-true
     property: userBoolT
   - operator: lt
