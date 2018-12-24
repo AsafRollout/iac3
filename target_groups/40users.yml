@@ -32,4 +32,4 @@ conditions:
     operand: aaa
   - operator: eq
     property: userNumberEq
-    operand: 111
+    operand: 11
