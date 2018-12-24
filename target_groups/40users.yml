@@ -2,5 +2,5 @@ type: target-group
 name: 40users
 conditions:
   - operator: eq
-    property: userId
+    property: userId2
     operand: 30
