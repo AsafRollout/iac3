@@ -33,3 +33,6 @@ conditions:
   - operator: eq
     property: userNumberEq
     operand: 11
+  - operator: ne
+    property: userNumberNe
+    operand: 11
