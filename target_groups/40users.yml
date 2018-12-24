@@ -3,4 +3,4 @@ name: 40users
 conditions:
   - operator: eq
     property: userId
-    operand: 40
+    operand: 50
