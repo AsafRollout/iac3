@@ -36,3 +36,7 @@ conditions:
   - operator: ne
     property: userNumberNe
     operand: 11
+  - operator: ne
+    property: userStringNe2
+    operand: aaa
+    
