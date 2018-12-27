@@ -3,6 +3,10 @@
 type: experiment
 name: first flag
 description: desc2
+labels:
+  - lbl1
+  - labbbbb
+  - archive
 stickinessProperty: id
 flag: first_flag
 platforms:
@@ -22,7 +26,7 @@ platforms:
           value: 'true'
     value:
       - from: 2018-12-13T17:51:10.016Z
-        percentage: 0
+        percentage: .nan
         option: true
       - from: 2018-12-24T00:00:00.000Z
         percentage: 100
@@ -36,7 +40,7 @@ conditions:
         option: true
 value:
   - from: 2018-12-24T00:00:00.000Z
-    percentage: 0
+    percentage: .nan
     option: true
   - from: 2018-12-27T00:00:00.000Z
     percentage: 100
