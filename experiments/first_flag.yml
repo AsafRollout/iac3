@@ -3,7 +3,12 @@
 type: experiment
 name: first flag
 description: desc2
-labels: archive
+labels:
+  - archive
+  - lbl1
+  - lbl3
+  - lbl4
+  - lbl2
 stickinessProperty: id
 flag: first_flag
 platforms:
