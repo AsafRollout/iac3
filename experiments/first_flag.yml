@@ -6,6 +6,7 @@ description: desc2
 labels:
   - labbbbb
   - archive
+  - lbl1
 stickinessProperty: id
 flag: first_flag
 platforms:
