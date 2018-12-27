@@ -4,7 +4,6 @@ type: experiment
 name: first flag
 description: desc2
 labels:
-  - lbl1
   - labbbbb
   - archive
 stickinessProperty: id
