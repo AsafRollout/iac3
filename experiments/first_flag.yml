@@ -6,6 +6,7 @@ description: desc2
 labels:
   - archive
   - l1
+  - l2
 stickinessProperty: id
 flag: first_flag
 platforms:
