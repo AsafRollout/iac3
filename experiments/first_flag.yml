@@ -7,6 +7,7 @@ labels:
   - archive
   - lbl1
   - lbl2
+  - lll
 stickinessProperty: id
 flag: first_flag
 platforms:
