@@ -8,7 +8,7 @@ labels:
   - lbl1
   - lbl2
   - lll
-  - l1111
+  - l11
 stickinessProperty: id
 flag: first_flag
 platforms:
