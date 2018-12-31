@@ -25,6 +25,7 @@ platforms:
         dependency:
           flag: first_flag2
           value: 'true'
+        value: true
     value:
       - from: 2018-12-13T17:51:10.016Z
         percentage: .nan
