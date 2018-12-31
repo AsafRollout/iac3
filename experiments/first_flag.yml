@@ -7,7 +7,7 @@ labels:
   - archive
   - lbl1s
   - lbl2
-  - 7lll123456z
+  - 7lll1234561
 stickinessProperty: id
 flag: first_flag
 platforms:
@@ -40,9 +40,9 @@ conditions:
       - percentage: 40
         option: true
 value:
-  - from: 2018-12-24T00:00:00.000Z
-    percentage: .nan
+  - from: 2018-12-31T19:58:09.654Z
+    percentage: 30
     option: true
-  - from: 2018-12-27T00:00:00.000Z
+  - from: 2019-01-01T00:00:00.000Z
     percentage: 100
     option: true
