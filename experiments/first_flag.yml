@@ -44,5 +44,8 @@ value:
     percentage: 30
     option: true
   - from: 2019-01-01T00:00:00.000Z
+    percentage: 80
+    option: true
+  - from: 2019-01-03T00:00:00.000Z
     percentage: 100
     option: true
