@@ -2,7 +2,9 @@
 # URL: https://localhost.rollout.io:9000/ex/5bb4fdfc22a72a7d6c885ce5
 type: experiment
 name: first var2
-labels: l5
+labels:
+  - l5
+  - lbl2
 flag: first_var
 availableValues:
   - blue
