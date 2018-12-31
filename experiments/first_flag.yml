@@ -7,7 +7,6 @@ labels:
   - archive
   - lbl1s
   - lbl2
-  - 7lll1234561zs
 stickinessProperty: id
 flag: first_flag
 platforms:
@@ -25,7 +24,6 @@ platforms:
         dependency:
           flag: first_flag2
           value: 'true'
-        value: false
     value:
       - from: 2018-12-13T17:51:10.016Z
         percentage: 30
