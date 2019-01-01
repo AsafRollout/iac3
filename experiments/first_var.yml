@@ -4,7 +4,7 @@ type: experiment
 name: first var2
 labels: 
   - lblzk
-  - kaka, 
+  - kaka
   - l5
 flag: first_var
 availableValues:
