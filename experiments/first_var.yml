@@ -5,7 +5,7 @@ name: first var2
 labels:
   - lblzk1
   - kaka
-  - l55z
+  - l55z1
 flag: first_var
 availableValues:
   - blue
