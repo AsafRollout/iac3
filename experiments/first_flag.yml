@@ -5,7 +5,6 @@ name: first flag
 description: desc2azsxa63az
 labels:
   - archive
-  - lbl
   - sssss2
 stickinessProperty: id
 flag: first_flag
