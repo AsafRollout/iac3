@@ -3,9 +3,9 @@
 type: experiment
 name: first var2
 labels:
-  - lblzk
+  - lblzk1
   - kaka
-  - l55
+  - l55z
 flag: first_var
 availableValues:
   - blue
