@@ -5,7 +5,6 @@ name: first var22
 labels:
   - lblzzz
   - lll
-  - ll1122
 flag: first_var
 availableValues:
   - blue
