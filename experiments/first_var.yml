@@ -8,7 +8,7 @@ availableValues:
   - blue
   - green
   - red
-  - red red  2
+  - red red
   - aaa2
 platforms:
   - name: Ruby
