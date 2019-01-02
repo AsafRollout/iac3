@@ -7,7 +7,7 @@ flag: first_var
 availableValues:
   - blue
   - green
-  - red red
+  - red
   - lala
   - aaa2
 platforms:
