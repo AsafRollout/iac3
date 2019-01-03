@@ -22,4 +22,4 @@ platforms:
         option: green
       - percentage: 40
         option: blue
-value: blue
+value: red
