@@ -11,7 +11,7 @@ availableValues:
   - blue
   - green
   - red
-  - lal
+  - lalz
   - newoneS2
 platforms:
   - name: Ruby
