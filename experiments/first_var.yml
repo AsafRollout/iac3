@@ -22,4 +22,6 @@ platforms:
         option: green
       - percentage: 40
         option: blue
+  - name: android
+    value: green
 value: red
