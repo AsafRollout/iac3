@@ -4,7 +4,7 @@ type: experiment
 name: first varr8
 labels:
   - lblzzz
-  - lll
+  - lll1
   - lblll
 flag: first_var
 availableValues:
@@ -16,10 +16,10 @@ availableValues:
 platforms:
   - name: Ruby
     value:
-      - percentage: 33
+      - percentage: 24
         option: red
-      - percentage: 33
+      - percentage: 20
         option: green
-      - percentage: 33
+      - percentage: 40
         option: blue
-value: blue
+value: green
