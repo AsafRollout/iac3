@@ -1,11 +1,11 @@
 # This file was edited by rollout.io
 # URL: https://localhost.rollout.io:9000/ex/5bb4fdfc22a72a7d6c885ce5
 type: experiment
-name: first varr3
+name: first varr4
 labels:
   - lblzzz
   - lll
-  - lbl6
+  - lbl7
 flag: first_var
 availableValues:
   - blue
