@@ -1,7 +1,7 @@
 # This file was edited by rollout.io
 # URL: https://localhost.rollout.io:9000/ex/5bb4fdfc22a72a7d6c885ce5
 type: experiment
-name: first varr11
+name: first varr12
 labels:
   - lblzzz
   - lll1
@@ -17,4 +17,4 @@ availableValues:
 platforms:
   - name: Ruby
     value: []
-value: blue
+value: green
