@@ -14,15 +14,4 @@ availableValues:
   - lala
   - newoneS2
   - value
-platforms:
-  - name: Ruby
-    value:
-      - percentage: 24
-        option: red
-      - percentage: 20
-        option: green
-      - percentage: 40
-        option: blue
-  - name: android
-    value: green
 value: red
