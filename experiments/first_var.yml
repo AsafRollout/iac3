@@ -14,4 +14,7 @@ availableValues:
   - lala
   - newoneS2
   - value
+platforms:
+  - name: Ruby
+    value: []
 value: red
