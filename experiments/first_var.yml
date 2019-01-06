@@ -16,5 +16,5 @@ availableValues:
   - value
 platforms:
   - name: Ruby
-    value: blue
+    value: green
 value: red
