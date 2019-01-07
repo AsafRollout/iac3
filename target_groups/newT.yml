@@ -3,4 +3,4 @@ name: newT
 conditions:
   - operator: ne
     property: '33'
-    operand: adf
+    operand: adfd
