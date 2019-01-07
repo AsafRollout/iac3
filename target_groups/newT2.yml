@@ -1,0 +1,6 @@
+type: target-group
+name: newT2
+conditions:
+  - operator: ne
+    property: '33'
+    operand: adfdqwer
