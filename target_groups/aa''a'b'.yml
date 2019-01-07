@@ -1,0 +1,6 @@
+type: target-group
+name: aa''a'b'
+conditions:
+  - operator: ne
+    property: '2222'
+    operand: '3'
