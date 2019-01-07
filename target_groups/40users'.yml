@@ -7,7 +7,7 @@ conditions:
     property: userId22
     operand:
       - aavzx
-      - '403'
+      - '4031'
   - operator: is-true
     property: userBoolT
   - operator: lt
