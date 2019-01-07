@@ -1,7 +1,7 @@
 # This file was edited by rollout.io
 # URL: https://localhost.rollout.io:9000/ex/5bb4b23322a72a7d6c88593f
 type: experiment
-name: first flag
+name: first flag2
 description: desc2azsxa63az
 labels:
   - archive
