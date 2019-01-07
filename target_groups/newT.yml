@@ -1,5 +1,5 @@
 type: target-group
-name: newT
+name: newT2
 conditions:
   - operator: ne
     property: '33'
