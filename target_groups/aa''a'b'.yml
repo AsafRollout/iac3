@@ -1,5 +1,5 @@
 type: target-group
-name: aa''a'b'
+name: aaaa
 conditions:
   - operator: ne
     property: '2222'
