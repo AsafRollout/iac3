@@ -1,6 +1,6 @@
 type: target-group
 name: t3
 conditions:
-  - operator: ne
+  - operator: eq
     property: '33'
-    operand: ttt
+    operand: tttz
