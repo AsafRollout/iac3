@@ -3,4 +3,4 @@ name: t3
 conditions:
   - operator: ne
     property: '33'
-    operand: aaabc
+    operand: aaabcd
