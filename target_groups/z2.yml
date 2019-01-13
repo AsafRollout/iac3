@@ -1,5 +1,5 @@
 type: target-group
-name: z2
+name: z22
 conditions:
   - operator: is-undefined
     property: '33'
