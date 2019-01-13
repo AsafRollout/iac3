@@ -1,6 +1,6 @@
 type: target-group
-name: t111
+name: t222
 conditions:
   - operator: eq
     property: '33'
-    operand: 431
+    operand: asdf
