@@ -1,6 +1,7 @@
 type: target-group
 name: z11
+description: ddddddd
 conditions:
-  - operator: gt
+  - operator: lte
     property: userStringEq
-    operand: 3
+    operand: 10
