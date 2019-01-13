@@ -1,6 +1,6 @@
 type: target-group
-name: t10
+name: t11
 conditions:
-  - operator: ne
+  - operator: eq
     property: '33'
-    operand: aaabcdezz
+    operand: 431
