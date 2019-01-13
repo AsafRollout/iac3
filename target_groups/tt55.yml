@@ -1,0 +1,6 @@
+type: target-group
+name: tt55
+conditions:
+  - operator: gt
+    property: userStringEq
+    operand: 3
