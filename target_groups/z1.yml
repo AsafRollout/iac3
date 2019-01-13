@@ -1,7 +1,0 @@
-type: target-group
-name: z11
-description: ddddddd
-conditions:
-  - operator: lte
-    property: userStringEq
-    operand: 10
