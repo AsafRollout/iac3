@@ -1,0 +1,5 @@
+type: target-group
+name: z2
+conditions:
+  - operator: is-undefined
+    property: '33'
