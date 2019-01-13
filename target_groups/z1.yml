@@ -1,0 +1,6 @@
+type: target-group
+name: z1
+conditions:
+  - operator: gt
+    property: userStringEq
+    operand: 3
