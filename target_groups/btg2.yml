@@ -1,6 +1,8 @@
 type: target-group
 name: btg2
 conditions:
+  - operator: is-undefined
+    property: '111'
   - operator: ne
     property: '33'
     operand: aaa
