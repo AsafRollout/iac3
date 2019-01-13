@@ -1,0 +1,6 @@
+type: target-group
+name: btg2
+conditions:
+  - operator: ne
+    property: '2222'
+    operand: aa
