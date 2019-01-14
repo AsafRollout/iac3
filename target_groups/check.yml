@@ -1,5 +1,6 @@
 type: target-group
 name: check
 conditions:
-  - operator: is-undefined
+  - operator: eq
     property: '33'
+    operand: aaa
