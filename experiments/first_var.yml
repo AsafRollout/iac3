@@ -6,6 +6,7 @@ labels:
   - lblzzzz	
   - lll1	
   - lbllaa	
+  - lalaland
 flag: first_var	
 availableValues:	
   - blue	
@@ -16,5 +17,5 @@ availableValues:
   - value	
 platforms:	
   - name: Ruby	
-    value: blue	
+    value: green	
 value: red
