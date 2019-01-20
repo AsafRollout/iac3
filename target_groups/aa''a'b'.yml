@@ -4,6 +4,6 @@ conditions:
   - operator: semver-eq
     property: rox.app_release
     operand: 1.2.3
-  - operator: ne
-    property: '2222'
-    operand: '3'
+  - operator: semver-eq
+    property: rox.app_release
+    operand: 2.3.4
