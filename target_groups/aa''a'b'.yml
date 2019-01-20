@@ -1,6 +1,9 @@
 type: target-group
-name: aaab
+name: aa''a'b'
 conditions:
   - operator: ne
     property: '2222'
-    operand: '334541144941'
+    operand: '5'
+  - operator: ne
+    property: '2222'
+    operand: '3'
