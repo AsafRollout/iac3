@@ -2,8 +2,8 @@ type: target-group
 name: zz
 conditions:
   - operator: ne
-    property: '2222'
-    operand: z
+    property: '33'
+    operand: '123'
   - operator: ne
     property: '2222'
     operand: '3'
