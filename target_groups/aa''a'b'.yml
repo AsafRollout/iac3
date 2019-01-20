@@ -3,7 +3,7 @@ name: aa''a'b'
 conditions:
   - operator: ne
     property: '2222'
-    operand: '5'
+    operand: asdf
   - operator: ne
     property: '2222'
     operand: '3'
