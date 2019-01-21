@@ -7,4 +7,3 @@ conditions:
   - operator: ne
     property: '33'
     operand: z
-logicGate: or
