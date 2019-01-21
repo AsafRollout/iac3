@@ -3,7 +3,11 @@ name: fa
 conditions:
   - operator: ne
     property: '33'
+    operand: qwer
+  - operator: ne
+    property: '33'
     operand: '13'
   - operator: ne
     property: '33'
     operand: z
+logicGate: or
