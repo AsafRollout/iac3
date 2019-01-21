@@ -1,0 +1,9 @@
+type: target-group
+name: aaab
+conditions:
+  - operator: ne
+    property: '33'
+    operand: '99'
+  - operator: ne
+    property: '2222'
+    operand: '334541144941'
