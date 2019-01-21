@@ -3,7 +3,7 @@ name: fa
 conditions:
   - operator: ne
     property: '33'
-    operand: '5'
+    operand: '13'
   - operator: ne
     property: '33'
     operand: z
