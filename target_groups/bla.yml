@@ -1,0 +1,9 @@
+type: target-group
+name: bla
+operator: or
+conditions:
+  - operator: is-undefined
+    property: '111'
+  - operator: ne
+    property: avav
+    operand: a
