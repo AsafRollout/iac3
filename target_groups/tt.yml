@@ -1,6 +1,11 @@
 type: target-group
-name: t1
+name: tt
 conditions:
+  - operator: in-array
+    property: '2222'
+    operand:
+      - '1'
   - operator: ne
     property: '33'
-    operand: adfd
+    operand: a
+logicGate: or
