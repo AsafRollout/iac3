@@ -17,4 +17,9 @@ availableValues:
 platforms:
   - name: Ruby
     value: blue
+conditions:
+  - group:
+      operator: nor
+      name: aaab
+    value: []
 value: red
