@@ -7,4 +7,3 @@ conditions:
   - operator: ne
     property: '2222'
     operand: '3'
-logicGate: or
