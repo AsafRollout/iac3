@@ -1,6 +1,9 @@
 type: target-group
 name: kk
 conditions:
+  - operator: ne
+    property: '2222'
+    operand: '3'
   - operator: in-array
     property: '2222'
     operand:
