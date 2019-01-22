@@ -5,7 +5,6 @@ name: first varr12
 labels:
   - lblzzzz
   - lll1
-  - lbllaa
 flag: first_var
 availableValues:
   - blue
