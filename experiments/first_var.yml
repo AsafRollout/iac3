@@ -1,7 +1,7 @@
 # This file was edited by rollout.io
 # URL: https://localhost.rollout.io:9000/ex/5c3c64cf27d4e2445b6f67ff
 type: experiment
-name: first varr12
+name: first varr1
 flag: first_var
 availableValues:
   - blue
