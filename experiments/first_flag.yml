@@ -15,7 +15,7 @@ platforms:
           operator: semver-gt
           semver: '3'
         value:
-          - percentage: 60
+          - percentage: 50
             option: true
       - version:
           operator: semver-lt
