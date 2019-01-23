@@ -1,0 +1,10 @@
+type: target-group
+name: aa''a'b'
+operator: or
+conditions:
+  - operator: semver-eq
+    property: rox.app_release
+    operand: 1.2.4
+  - operator: semver-eq
+    property: rox.app_release
+    operand: 2.3.4
