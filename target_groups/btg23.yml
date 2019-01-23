@@ -1,5 +1,5 @@
 type: target-group
-name: btg23
+name: btg24
 description: some other desc
 conditions:
   - operator: ne
