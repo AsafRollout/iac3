@@ -34,6 +34,9 @@ platforms:
         percentage: 100
         option: true
 conditions:
+  - dependency:
+      flag: first_flag2
+      value: 'true'
   - value:
       - percentage: 50
         option: true
