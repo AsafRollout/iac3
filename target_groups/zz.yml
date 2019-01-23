@@ -7,4 +7,4 @@ conditions:
     operand: '123'
   - operator: ne
     property: '2222'
-    operand: 5
+    operand: 6
