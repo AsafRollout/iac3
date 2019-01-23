@@ -10,4 +10,4 @@ conditions:
     operand: aaa
   - operator: ne
     property: '2222'
-    operand: aa
+    operand: ac
