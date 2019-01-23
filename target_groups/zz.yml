@@ -1,5 +1,5 @@
 type: target-group
-name: zz
+name: zzp
 operator: or
 conditions:
   - operator: ne
