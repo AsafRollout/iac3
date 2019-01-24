@@ -14,9 +14,6 @@ platforms:
       - version:
           operator: semver-gt
           semver: '3'
-        value:
-          - percentage: 50
-            option: true
     value: true
 conditions:
   - {}
