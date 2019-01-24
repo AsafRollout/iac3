@@ -17,22 +17,7 @@ platforms:
         value:
           - percentage: 50
             option: true
-      - version:
-          operator: semver-lt
-          semver: '2'
-        dependency:
-          flag: first_flag2
-          value: 'true'
-    value:
-      - from: 2018-12-13T17:51:10.016Z
-        percentage: 25
-        option: true
-      - from: 2018-12-24T00:00:00.000Z
-        percentage: 100
-        option: true
-      - from: 2018-12-26T00:00:00.000Z
-        percentage: 100
-        option: true
+    value: true
 conditions:
   - {}
   - value:
