@@ -3,6 +3,4 @@ name: 40 users
 conditions:
   - operator: in-array
     property: id
-    operand:
-      - '40'
-      - '20'
+    operand: []
