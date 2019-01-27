@@ -8,6 +8,9 @@ conditions:
       - from: 1970-01-01T00:00:00.000Z
         percentage: 100
         option: true
+      - from: 1970-01-01T00:00:00.000Z
+        percentage: 100
+        option: true
       - from: 2019-01-27T18:24:27.260Z
         percentage: 0
         option: true
