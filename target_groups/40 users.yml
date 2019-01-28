@@ -2,5 +2,7 @@ type: target-group
 name: 40 users
 conditions:
   - operator: in-array
-    property: id
-    operand: []
+    property: avav
+    operand:
+      - asdf
+      - qwer
