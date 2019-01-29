@@ -2,7 +2,6 @@
 # URL: https://localhost.rollout.io:9000/ex/5c49bbeda753ca49cfd93b76
 type: experiment
 name: first var
-labels: archive
 flag: first_var
 availableValues:
   - red
