@@ -5,5 +5,4 @@ name: first flag 2
 flag: first_flag2
 conditions:
   - {}
-  - {}
 value: false
