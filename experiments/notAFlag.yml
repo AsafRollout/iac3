@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5e14c91f48834c000b5689ea
+type: experiment
+name: not a flag
+flag: notAFlag
+value:
+  - percentage: 50
+    option: true
