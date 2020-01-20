@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5e14c92748834c000b5689f5
+type: experiment
+name: not a flag 2
+flag: notAFlag2
+value: true
