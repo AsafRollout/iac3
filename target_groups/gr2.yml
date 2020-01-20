@@ -1,9 +1,0 @@
-type: target-group
-name: gr2
-conditions:
-  - operator: ne
-    property: '2222'
-    operand: '4'
-  - operator: ne
-    property: '111'
-    operand: '1'
