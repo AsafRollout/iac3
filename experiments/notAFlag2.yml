@@ -3,4 +3,4 @@
 type: experiment
 name: not a flag 2
 flag: notAFlag2
-value: true
+value: false
