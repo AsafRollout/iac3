@@ -3,4 +3,8 @@
 type: experiment
 name: not a flag 2
 flag: notAFlag2
+conditions:
+  - property:
+      name: prop
+      operator: is-true
 value: true
