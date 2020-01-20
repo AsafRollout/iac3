@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5e2590a2d656c4000d959c63
+type: experiment
+name: 'yes'
+flag: aa1.yes
+value: false
