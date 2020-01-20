@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5e138260dd561c000a501106
+type: experiment
+name: is name moshe
+flag: isNameMoshe
+value: false
