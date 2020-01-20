@@ -1,9 +1,0 @@
-type: target-group
-name: gr3
-conditions:
-  - operator: ne
-    property: '33'
-    operand: z
-  - operator: ne
-    property: '2222'
-    operand: '3'
