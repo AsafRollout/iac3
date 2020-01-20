@@ -3,8 +3,4 @@
 type: experiment
 name: 'yes'
 flag: aa1.yes
-conditions:
-  - group:
-      name: isProp
-    value: true
 value: false
