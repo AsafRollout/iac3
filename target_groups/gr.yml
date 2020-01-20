@@ -1,9 +1,0 @@
-type: target-group
-name: gr
-conditions:
-  - operator: ne
-    property: '2222'
-    operand: '5'
-  - operator: ne
-    property: '2222'
-    operand: '1'
