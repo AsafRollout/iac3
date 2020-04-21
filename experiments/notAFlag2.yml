@@ -7,4 +7,5 @@ conditions:
   - property:
       name: prop
       operator: is-true
+    value: false
 value: true
