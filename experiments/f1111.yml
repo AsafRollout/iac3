@@ -6,4 +6,6 @@ flag: f1111
 availableValues:
   - 1
   - 0
+conditions:
+  - value: 1
 value: 0
