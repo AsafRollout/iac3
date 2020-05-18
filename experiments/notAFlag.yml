@@ -4,5 +4,6 @@ type: experiment
 name: not a flag
 flag: notAFlag
 value:
-  - percentage: 50
+  - from: 2020-05-18T18:34:42.592Z
+    percentage: 0
     option: true
