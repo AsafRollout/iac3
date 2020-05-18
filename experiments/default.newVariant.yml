@@ -4,7 +4,11 @@ type: experiment
 name: new variant
 flag: default.newVariant
 availableValues:
-  - B
-  - C
   - A
+  - D
+  - C
+  - B
+conditions:
+  - value: A
+  - value: D
 value: C
