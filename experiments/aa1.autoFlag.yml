@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5ec2a15725668b24bae0d88f
+type: experiment
+name: auto flag
+flag: aa1.autoFlag
+value: false
