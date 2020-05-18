@@ -1,0 +1,8 @@
+# This file was edited by rollout.io
+# URL: https://qax.rollout.io/ex/5ec29317d8d2544f2a292c72
+type: experiment
+name: variant 2
+flag: variant2
+availableValues:
+  - var2
+value: []
