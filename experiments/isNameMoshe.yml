@@ -3,7 +3,4 @@
 type: experiment
 name: is name moshe
 flag: isNameMoshe
-value:
-  - from: 2020-05-18T18:25:44.425Z
-    percentage: 0
-    option: true
+value: true
