@@ -3,6 +3,9 @@
 type: experiment
 name: f 1111
 flag: f1111
+availableValues:
+  - 1
+  - 0
 conditions:
-  - value: false
-value: false
+  - value: 0
+value: 0
