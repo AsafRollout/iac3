@@ -4,8 +4,10 @@ type: experiment
 name: f 1111
 flag: f1111
 availableValues:
+  - 4
   - 1
   - 0
 conditions:
+  - value: 4
   - value: 1
 value: 0
