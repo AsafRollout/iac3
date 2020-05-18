@@ -4,6 +4,5 @@ type: experiment
 name: variant 2
 flag: variant2
 availableValues:
-  - var2
   - var1
 value: var2
