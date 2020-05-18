@@ -6,4 +6,11 @@ flag: default.newVariant
 availableValues:
   - C
   - B
-value: []
+  - A
+value:
+  - percentage: 33
+    option: C
+  - percentage: 33
+    option: B
+  - percentage: 34
+    option: A
