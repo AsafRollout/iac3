@@ -7,9 +7,5 @@ availableValues:
   - 1
   - 0
 conditions:
-  - value:
-      - percentage: 50
-        option: 1
-      - percentage: 50
-        option: 0
+  - value: 1
 value: 0
