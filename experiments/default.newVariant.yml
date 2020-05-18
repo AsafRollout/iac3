@@ -4,6 +4,6 @@ type: experiment
 name: new variant
 flag: default.newVariant
 conditions:
-  - value: true
-  - value: false
-value: true
+  - value: 'true'
+  - value: 'false'
+value: 'true'
