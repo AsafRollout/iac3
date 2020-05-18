@@ -4,6 +4,9 @@ type: experiment
 name: not a flag 2
 flag: notAFlag2
 conditions:
+  - value:
+      - percentage: 50
+        option: true
   - property:
       name: prop
       operator: is-true
