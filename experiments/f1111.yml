@@ -7,5 +7,5 @@ availableValues:
   - 1
   - 0
 conditions:
-  - value: 0
+  - value: 123
 value: 0
