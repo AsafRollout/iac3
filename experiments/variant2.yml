@@ -5,4 +5,5 @@ name: variant 2
 flag: variant2
 availableValues:
   - var2
-value: []
+  - var1
+value: var2
