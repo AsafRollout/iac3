@@ -4,11 +4,11 @@ type: experiment
 name: new variant
 flag: default.newVariant
 availableValues:
-  - A
-  - D
-  - C
+  - 'True'
+  - 'TRUE'
+  - TrUe
   - B
 conditions:
-  - value: A
-  - value: D
-value: C
+  - value: 'True'
+  - value: 'TRUE'
+value: TrUe
