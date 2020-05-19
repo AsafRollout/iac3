@@ -10,8 +10,11 @@ value:
     percentage: 0
     option: true
   - from: 2020-05-19T21:00:00.000Z
-    percentage: 100
+    percentage: 60
     option: true
   - from: 2020-05-28T21:00:00.000Z
-    percentage: 100
+    percentage: 70
+    option: true
+  - from: 2020-05-29T21:00:00.000Z
+    percentage: 80
     option: true
