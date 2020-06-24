@@ -4,6 +4,7 @@ name: f 1111
 labels:
   - backward-compatible-configuration
   - new
+  - notnew
 flag: f1111
 conditions:
   - value: true
