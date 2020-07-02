@@ -5,6 +5,7 @@ labels:
   - backward-compatible-configuration
   - new
   - notnew
+enabled: false
 flag: f1111
 conditions:
   - value: true
