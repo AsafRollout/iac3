@@ -1,9 +1,7 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
 name: f 1111
-labels:
-  - new
-  - notnew
+labels: new
 enabled: false
 flag: f1111
 conditions:
