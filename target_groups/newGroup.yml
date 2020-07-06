@@ -1,8 +1,0 @@
-type: target-group
-name: newGroup
-conditions:
-  - operator: in-array
-    property: bb
-    operand:
-      - '23'
-      - '345'
