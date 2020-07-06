@@ -2,7 +2,6 @@
 type: experiment
 name: f 1111
 labels:
-  - backward-compatible-configuration
   - new
   - notnew
 enabled: false
