@@ -1,5 +1,8 @@
 type: target-group
 name: isProp
 conditions:
+  - operator: semver-ne
+    property: internal.api_version
+    operand: '567'
   - operator: is-false
     property: prop
