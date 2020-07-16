@@ -5,7 +5,11 @@ labels: new
 flag: f1111
 conditions:
   - value: false
-  - value: true
+  - value: false
+  - version:
+      operator: semver-eq
+      semver: '45'
+    value: true
 value:
   - from: 2020-05-19T10:13:57.391Z
     percentage: 0
