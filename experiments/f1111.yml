@@ -11,6 +11,10 @@ conditions:
   - version:
       operator: semver-eq
       semver: '45'
+    property:
+      name: internal.api_version
+      operator: semver-gte
+      operand: wewq
     value: true
 value:
   - from: 2020-05-19T10:13:57.391Z

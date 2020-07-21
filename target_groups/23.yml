@@ -3,4 +3,7 @@ name: '23'
 conditions:
   - operator: semver-ne
     property: internal.api_version
+    operand: 'ewrr '
+  - operator: semver-ne
+    property: internal.api_version
     operand: '23'
