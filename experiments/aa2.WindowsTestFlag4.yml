@@ -1,7 +1,4 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
 flag: aa2.WindowsTestFlag4
-conditions:
-  - value: false
-  - value: false
 value: false
