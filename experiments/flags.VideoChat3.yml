@@ -3,6 +3,7 @@ type: experiment
 labels:
   - new
   - Another
+  - simple
 enabled: false
 flag: flags.VideoChat3
 value: false
