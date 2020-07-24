@@ -3,7 +3,6 @@ type: experiment
 labels:
   - Another
   - simple
-  - new
 enabled: false
 flag: UI3.Test
 availableValues:
